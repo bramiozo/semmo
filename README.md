@@ -1,4 +1,4 @@
-# Semmo, your simple semantic friend
+# Semmo, your simple semantic friend [not yet operational..]
 Semmo is a basic text-analysis library for your everyday needs.
 
 Facilitates:
@@ -8,14 +8,14 @@ Facilitates:
 * basic text-filtering using regex
 * Word embeddings 
 
-Want to haves:
-* learn regex patterns using LSTM's 
-* text-dimension reduction techniques such as NMF/LDA/LSA etc. 
-
-
-Built on top of 
+Will be built on top of 
 * SpaCy
 * Gensim
 * TextPipe
+* Transformers
 * Sklearn
-
+* Numpy
+* Scipy
+* PyMC4
+* Tensorflow
+* FlyingSquid
