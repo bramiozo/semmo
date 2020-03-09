@@ -56,6 +56,10 @@ cover/
 *.mo
 *.pot
 
+# PyCharm
+workspace.xml
+.idea/
+
 # Django stuff:
 *.log
 local_settings.py
