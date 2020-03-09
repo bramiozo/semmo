@@ -6,6 +6,7 @@ A.K.A. the impossible list
 - [] Lemmatizer
 - [] Word embedders: FastText, GloVe, Word2Vec
 - [] Document embedders: Doc2Vec, TFIDF weighted-Word-embeddings
+- [] Weakly-supervised methods: label source functions.
 - [] Sentence embedding: Sent2Vec
 - [] Paragraph embedding: Par2Vec
 - [] customizable 1D CNN, biLSTM/GRU, HAN classifiers
